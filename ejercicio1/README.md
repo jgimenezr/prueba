@@ -1,4 +1,4 @@
-#Clase N° 1 -  Ejercicio 1 Make It Real
+# Clase N° 1 -  Ejercicio 1 Make It Real
 ---
 ## Paso 1
 Abrir la consola e imprimir la ubicación actual: **pwd**
